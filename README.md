@@ -1,7 +1,7 @@
 # Functional Calculator
 
 ## Descriptions
-Basic Calculator HTML, CSS and JavaScript.
+Basic Calculator using HTML, CSS and JavaScript.
 
 ## Features
 - **Additions:**
@@ -12,11 +12,11 @@ Basic Calculator HTML, CSS and JavaScript.
 
 #### Front Page
 ![![Alt text](image-1.png)](image.png)
-####Additions
+#### Additions
 ![Alt text](image-2.png)
-####Multiplications
+#### Multiplications
 ![Alt text](image-3.png)
-####Subtractions
+#### Subtractions
 ![Alt text](image-4.png)
-####Divisions
+#### Divisions
 ![Alt text](image-5.png)
